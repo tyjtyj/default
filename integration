@@ -167,5 +167,6 @@
   "rsnodgrass/hass-sensorpush",
   "bacco007/sensor.waternsw",
   "dr1rrb/ha-twinkly",
-  "briis/unifiprotect"
+  "briis/unifiprotect",
+  "tyjtyj/sgnea"
 ]
